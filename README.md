@@ -30,17 +30,17 @@ CUDA-capable GPU (recommended)
 
 ### Folder Structure
 project/
-├── finalproject_art_classification.ipynb    
-├── README.md                                
-├── WikiArt/                                 
+├── finalproject_art_classification.ipynb
+├── README.md
+├── WikiArt/
 │   ├── Impressionism/
 │   │   ├── image1.jpg
 │   │   └── ...
 │   ├── Renaissance/
 │   │   └── ...
 │   └── ... (27 art style folders)
-├── resnet50_art_classifier.pth              
-└── confusion_matrix.png                     
+├── resnet50_art_classifier.pth
+└── confusion_matrix.png             
 
 ### How to Run
 1. Update the data path in the notebook:
