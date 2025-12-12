@@ -55,7 +55,7 @@ Cell 1: Imports and GPU check
 Cell 2: Configuration
 Cell 3: Data loading
 Cell 4: Model setup
-Cell 5: Training (~45 min with GPU, 2-3 hours with CPU)
+Cell 5: Training 
 Cell 6: Evaluation
 ```
 4. View results:
