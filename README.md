@@ -50,13 +50,15 @@ data_dir = "C:/Projects/WikiArt"  # Change to your dataset location
 2. Open the notebook:
 jupyter notebook finalproject_art_classification.ipynb
 3. Run all cells in order:
+```
 Cell 1: Imports and GPU check
 Cell 2: Configuration
 Cell 3: Data loading
 Cell 4: Model setup
 Cell 5: Training (~45 min with GPU, 2-3 hours with CPU)
 Cell 6: Evaluation
-4. View results:
+```
+5. View results:
 Metrics printed in notebook
 Confusion matrix saved as confusion_matrix.png
 Model saved as resnet50_art_classifier.pth
