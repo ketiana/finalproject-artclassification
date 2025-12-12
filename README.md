@@ -69,11 +69,11 @@ Model saved as resnet50_art_classifier.pth
 * Subsequent epochs: 3-8 minutes each
 
 ### Results
-Accuracy: 55.26%
-Macro Precision: 61.18%
-Macro Recall: 49.60%
-Macro F1-Score: 53.14%
-Top-5 Accuracy: 92.14%
+* Accuracy: 55.26%
+* Macro Precision: 61.18%
+* Macro Recall: 49.60%
+* Macro F1-Score: 53.14%
+* Top-5 Accuracy: 92.14%
 
 ### Notes
 Large dataset (81k images) requires significant RAM during loading
