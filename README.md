@@ -64,9 +64,9 @@ Confusion matrix saved as confusion_matrix.png
 Model saved as resnet50_art_classifier.pth
 
 ### Training Time
-With GPU (RTX 4090): ~1 hour and 20 minutes for 15 epochs
-First epoch: 10-15 minutes (data loading initialization)
-Subsequent epochs: 3-8 minutes each
+* With GPU (RTX 4090): ~1 hour and 20 minutes for 15 epochs
+* First epoch: 10-15 minutes (data loading initialization)
+* Subsequent epochs: 3-8 minutes each
 
 ### Results
 Accuracy: 55.26%
