@@ -29,6 +29,7 @@ CUDA-capable GPU (recommended)
   * Each folder name = class label
 
 ### Folder Structure
+```text
 project/
 ├── finalproject_art_classification.ipynb
 ├── README.md
