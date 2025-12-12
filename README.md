@@ -41,7 +41,8 @@ project/
 │   │   └── ...
 │   └── ... (27 art style folders)
 ├── resnet50_art_classifier.pth
-└── confusion_matrix.png             
+└── confusion_matrix.png
+```            
 
 ### How to Run
 1. Update the data path in the notebook:
