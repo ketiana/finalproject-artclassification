@@ -1,4 +1,4 @@
-# Art Style Classification and Period Detection
+# Art Style Classification 
 A deep learning system that automatically classifies paintings by artistic movement using ResNet50 transfer learning on the WikiArt dataset.
 
 ### Dataset
